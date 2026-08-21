@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "survivalzone.playserver.pro",
-    "port": 19132,
+    "port": 43808,
     "version": "1.20.1",
     "try-creative": false
   },
