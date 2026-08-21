@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalzonefun.aternos.me",
-    "port": 45513,
+    "ip": "myserverzip.mcsh.io",
+    "port": 19132,
     "version": "1.20.1",
     "try-creative": false
   },
