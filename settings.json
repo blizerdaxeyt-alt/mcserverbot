@@ -6,10 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalzone.playserver.pro
-
-
-",
+    "ip": "survivalzone.playserver.pro",
     "port": 49486,
     "version": "1.20.1",
     "try-creative": false
