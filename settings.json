@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "survivalzone.mcsh.io",
-    "port": 19132,
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
